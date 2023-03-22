@@ -4,7 +4,7 @@ A [Digital Innovation One](https://web.dio.me) por meio de um projeto prático, 
 
 O desafio tem como objetivo a criação de um software simples para representação de um bootcamp, onde o mesmo possui informações como o nome, descrição, data de início e data final. Os conteúdos presente neste modelo de treinamento serão os seguintes: mentorias(Título, descrição, data e xp bônus) e cursos(Título, descrição, carga horária e xp adquirido por hora).
 
-Além disso, domínio contará com o conceito desenvolvedor que poderá se inscrever no bootcamp. Este, terá como informações o nome, mentorias e atividades que participou e que as que já foram concluídas. 
+Além disso, o domínio contará com o conceito desenvolvedor que poderá se inscrever no bootcamp. Este, terá como informações o nome, mentorias e atividades que participou e as que já foram concluídas. 
 
 ## Técnicas e tecnologias utilizadas :computer:
 
